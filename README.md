@@ -1,0 +1,35 @@
+# NumPy for Machine Learning
+
+## NumPy Topics Completed
+
+- Arrays vs Python Lists
+- Memory Efficiency
+- Vectorization
+- Multi-Dimensional Arrays
+- Indexing & Slicing
+
+## Skills Learned
+
+- Array Creation
+- Shape Analysis
+- Vectorized Operations
+- Row Selection
+- Column Selection
+- Feature Extraction
+
+## Real World Usage
+
+- 1D → Labels
+- 2D → Tabular Datasets
+- 3D → Images
+- 4D → Batch of Images
+
+## Technologies
+
+- Python
+- NumPy
+- Jupyter Notebook
+
+## Author
+
+Lobhit Singh Patel
