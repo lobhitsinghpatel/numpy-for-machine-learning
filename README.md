@@ -7,6 +7,11 @@
 - Vectorization
 - Multi-Dimensional Arrays
 - Indexing & Slicing
+- Boolean Masking
+- Fancy Indexing
+- Reshaping
+- Flattening
+- Transpose
 
 ## Skills Learned
 
@@ -16,6 +21,8 @@
 - Row Selection
 - Column Selection
 - Feature Extraction
+- Vectorized Computation
+- Machine Learning Data Preparation
 
 ## Real World Usage
 
