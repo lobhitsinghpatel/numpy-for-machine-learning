@@ -12,6 +12,8 @@
 - Reshaping
 - Flattening
 - Transpose
+- Mathematical Operations
+- Broadcasting
 
 ## Skills Learned
 
@@ -28,12 +30,12 @@
 
 - 1D → Labels
 - 2D → Tabular Datasets
-- 3D → Images
+- 3D → Images in dryy
 - 4D → Batch of Images
 
 ## Technologies
 
-- Python
+- Python     
 - NumPy
 - Jupyter Notebook
 
